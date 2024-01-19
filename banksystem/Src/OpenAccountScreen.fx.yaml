@@ -226,7 +226,7 @@ OpenAccountScreen As screen:
                         RadiusTopRight: =20
                         Size: =11
                         Text: ="Submit"
-                        Width: =Parent.Width*.13
+                        Width: =Parent.Width*.1
                         X: =Parent.Width-Self.Width-Parent.Width*0.03
                         Y: =(MPV_Container1_2.Y+MPV_Container1_2.Height)+(Parent.Height-(MPV_Container1_2.Y+MPV_Container1_2.Height)-Self.Height)/2
                         ZIndex: =14
