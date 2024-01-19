@@ -1,4 +1,5 @@
 OpenAccountScreen As screen:
+    OnVisible: =Set(Ic,"Invalid")
 
     OA_BgContainer_1 As groupContainer.verticalAutoLayoutContainer:
         Height: =Parent.Height
