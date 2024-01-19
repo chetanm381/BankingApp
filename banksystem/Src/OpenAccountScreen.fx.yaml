@@ -403,8 +403,7 @@ OpenAccountScreen As screen:
                         ZIndex: =25
 
                     OA_Button2_8 As button:
-                        BorderColor: |-
-                            =ColorFade(ColorValue("#6B1D5E"), -15%)
+                        BorderColor: =RGBA(0,0,0,0)
                         BorderThickness: =0
                         Color: =RGBA(0, 0, 0, 0)
                         DisabledBorderColor: =RGBA(0, 0, 0, 0)
